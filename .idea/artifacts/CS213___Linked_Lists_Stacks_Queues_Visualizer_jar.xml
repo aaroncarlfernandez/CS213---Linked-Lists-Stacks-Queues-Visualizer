@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="CS213 - Linked Lists Stacks Queues Visualizer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS213___Linked_Lists_Stacks_Queues_Visualizer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CS213 - Linked Lists Stacks Queues Visualizer.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
